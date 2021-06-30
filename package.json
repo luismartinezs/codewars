@@ -4,7 +4,7 @@
   "description": "",
   "main": "elderAge.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -17,7 +17,11 @@
     "url": "https://github.com/luismartinezs/codewars/issues"
   },
   "homepage": "https://github.com/luismartinezs/codewars#readme",
-  "dependencies": {
+  "devDependencies": {
+    "@babel/core": "^7.14.6",
+    "@babel/node": "^7.14.7",
+    "@babel/preset-env": "^7.14.7",
+    "babel-jest": "^27.0.6",
     "jest": "^27.0.6"
   }
 }
