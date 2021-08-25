@@ -1,3 +1,3 @@
-const factorial = n => {}
+const factorial = (n) => {}
 
 export default factorial
