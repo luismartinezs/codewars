@@ -1,7 +1,9 @@
 function getOdds(arr) {
   let result = []
 
-  function helper(helperInput) {}
+  function helper(helperInput) {
+    // complete
+  }
 
   helper(arr)
 
