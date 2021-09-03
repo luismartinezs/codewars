@@ -4,6 +4,8 @@ Named like a coding exercises site, unrelated otherwise
 
 Practice solving common coding problems
 
+[VisuAlgo - visualising data structures and algorithms through animation](https://visualgo.net/)
+
 ## Algorithm problem solving
 
 tl,dr;
