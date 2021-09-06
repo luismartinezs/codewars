@@ -52,3 +52,14 @@ Refactoring questions:
 - Can you improve the performance of your solution?
 - Can you think of other ways to refactor? (language conventions, styleguides...)
 - How have other people solved this problem?
+
+Practice
+
+- problem solving patterns
+  - Anagram
+  - Are there duplicates
+  - averagePair
+  - countUniqueValues
+  - findLongestSubstring
+  - isSubsequence
+  - maxSubarraySum
