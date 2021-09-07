@@ -69,6 +69,6 @@ Practice
   - binarySearch
   - naiveStringSearch
 - basic-sorting
-  - bubble 1
-  - insertionSort 1
-  - selectionSort 1
+  - bubble 2
+  - insertionSort 2
+  - selectionSort 2
