@@ -56,10 +56,19 @@ Refactoring questions:
 Practice
 
 - problem solving patterns
-  - Anagram
-  - Are there duplicates
-  - averagePair
-  - countUniqueValues
-  - findLongestSubstring
-  - isSubsequence
-  - maxSubarraySum
+  - Anagram 5
+  - Are there duplicates 5
+  - averagePair 5
+  - countUniqueValues 5
+  - findLongestSubstring 5
+  - isSubsequence 5
+  - maxSubarraySum 5
+- recursion
+- search
+  - simpleSearchArray
+  - binarySearch
+  - naiveStringSearch
+- basic-sorting
+  - bubble 1
+  - insertionSort 1
+  - selectionSort 1
