@@ -64,6 +64,12 @@ Practice
   - isSubsequence 5
   - maxSubarraySum 5
 - recursion
+  - factorial 2
+  - fib 2
+  - power 2
+  - productOfArray 2
+  - recursiveRange 2
+  - helperMethod 2
 - search
   - simpleSearchArray
   - binarySearch
